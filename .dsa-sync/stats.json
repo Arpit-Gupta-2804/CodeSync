@@ -1,14 +1,14 @@
 {
   "difficulty": {
-    "Easy": 6,
+    "Easy": 7,
     "Hard": 0,
     "Medium": 5
   },
   "languages": {
-    "Java": 11
+    "Java": 12
   },
   "platforms": {
-    "gfg": 5,
+    "gfg": 6,
     "leetcode": 6
   },
   "solvedProblems": [
@@ -22,11 +22,12 @@
     "Leetcode/Dynamic Programming/jump-game-ii.java",
     "GFG/Arrays/move-all-zeroes-to-end.java",
     "GFG/Strings/non-repeating-character.java",
-    "GFG/Arrays/max-consecutive-1-s-with-k-flips.java"
+    "GFG/Arrays/max-consecutive-1-s-with-k-flips.java",
+    "GFG/Arrays/stock-buy-and-sell-max-one-transaction-allowed.java"
   ],
   "topics": {
     "Array": 4,
-    "Arrays": 3,
+    "Arrays": 4,
     "Dynamic Programming": 4,
     "Greedy": 4,
     "Math": 2,
@@ -36,5 +37,5 @@
     "Strings": 1,
     "Two Pointers": 1
   },
-  "totalSolved": 11
+  "totalSolved": 12
 }
