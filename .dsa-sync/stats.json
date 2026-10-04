@@ -1,14 +1,14 @@
 {
   "difficulty": {
-    "Easy": 5,
+    "Easy": 6,
     "Hard": 0,
     "Medium": 4
   },
   "languages": {
-    "Java": 9
+    "Java": 10
   },
   "platforms": {
-    "gfg": 3,
+    "gfg": 4,
     "leetcode": 6
   },
   "solvedProblems": [
@@ -20,7 +20,8 @@
     "GFG/Other/shortest-job-first.java",
     "Leetcode/Dynamic Programming/jump-game.java",
     "Leetcode/Dynamic Programming/jump-game-ii.java",
-    "GFG/Arrays/move-all-zeroes-to-end.java"
+    "GFG/Arrays/move-all-zeroes-to-end.java",
+    "GFG/Strings/non-repeating-character.java"
   ],
   "topics": {
     "Array": 4,
@@ -31,7 +32,8 @@
     "Memoization": 1,
     "Quicksort": 1,
     "Sorting": 1,
-    "Two Pointers": 1
+    "Two Pointers": 1,
+    "Strings": 1
   },
-  "totalSolved": 9
+  "totalSolved": 10
 }
