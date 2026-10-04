@@ -1,14 +1,14 @@
 {
   "difficulty": {
-    "Easy": 4,
+    "Easy": 5,
     "Hard": 0,
     "Medium": 4
   },
   "languages": {
-    "Java": 8
+    "Java": 9
   },
   "platforms": {
-    "gfg": 2,
+    "gfg": 3,
     "leetcode": 6
   },
   "solvedProblems": [
@@ -19,11 +19,12 @@
     "Leetcode/Array/lemonade-change.java",
     "GFG/Other/shortest-job-first.java",
     "Leetcode/Dynamic Programming/jump-game.java",
-    "Leetcode/Dynamic Programming/jump-game-ii.java"
+    "Leetcode/Dynamic Programming/jump-game-ii.java",
+    "GFG/Arrays/move-all-zeroes-to-end.java"
   ],
   "topics": {
     "Array": 4,
-    "Arrays": 1,
+    "Arrays": 2,
     "Dynamic Programming": 4,
     "Greedy": 4,
     "Math": 2,
@@ -32,5 +33,5 @@
     "Sorting": 1,
     "Two Pointers": 1
   },
-  "totalSolved": 8
+  "totalSolved": 9
 }
