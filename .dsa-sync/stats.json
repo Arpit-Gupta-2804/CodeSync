@@ -2,14 +2,14 @@
   "difficulty": {
     "Easy": 12,
     "Hard": 0,
-    "Medium": 7
+    "Medium": 8
   },
   "languages": {
-    "Java": 19
+    "Java": 20
   },
   "platforms": {
     "gfg": 13,
-    "leetcode": 6
+    "leetcode": 7
   },
   "solvedProblems": [
     "Leetcode/General/count-commas-in-range.java",
@@ -30,7 +30,8 @@
     "GFG/Strings/palindrome-numbers-in-a-range.java",
     "GFG/Arrays/peak-element.java",
     "GFG/Arrays/equilibrium-point.java",
-    "GFG/Arrays/missing-in-array.java"
+    "GFG/Arrays/missing-in-array.java",
+    "Leetcode/Sliding Window/longest-substring-without-repeating-characters.java"
   ],
   "topics": {
     "Array": 4,
@@ -43,7 +44,10 @@
     "Searching": 3,
     "Sorting": 1,
     "Strings": 2,
-    "Two Pointers": 1
+    "Two Pointers": 1,
+    "Hash Table": 1,
+    "String": 1,
+    "Sliding Window": 1
   },
-  "totalSolved": 19
+  "totalSolved": 20
 }
