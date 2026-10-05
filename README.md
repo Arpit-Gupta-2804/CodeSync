@@ -8,13 +8,13 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 
 | Language | Problems Solved |
 |:---------|----------------:|
-| Java | 17 |
+| Java | 18 |
 
 ## Topics
 
 | Topic | Problems Solved |
 | :------|----------------:|
-| Arrays | 8 |
+| Arrays | 9 |
 | Array | 4 |
 | Dynamic Programming | 4 |
 | Greedy | 4 |
@@ -30,17 +30,17 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
     
 | Platform | Problems Solved | 
 | :---------|----------------:|
-| gfg | 11 |
+| gfg | 12 |
 | leetcode | 6 |
-| **Total** | **17** |
+| **Total** | **18** |
 
 ## Difficulty
     
 | Difficulty | Problems Solved |
 |:-----------|----------------|
-| Easy | 10 |
+| Easy | 11 |
 | Hard | 0 |
 | Medium | 7 |
-| **Total** | **17** |
+| **Total** | **18** |
 
 <!-- DSA-SYNC:STATS:END -->
