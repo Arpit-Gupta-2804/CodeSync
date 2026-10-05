@@ -1,14 +1,14 @@
 {
   "difficulty": {
-    "Easy": 9,
+    "Easy": 10,
     "Hard": 0,
     "Medium": 6
   },
   "languages": {
-    "Java": 15
+    "Java": 16
   },
   "platforms": {
-    "gfg": 9,
+    "gfg": 10,
     "leetcode": 6
   },
   "solvedProblems": [
@@ -26,7 +26,8 @@
     "GFG/Arrays/stock-buy-and-sell-max-one-transaction-allowed.java",
     "GFG/Arrays/longest-subarray-with-sum-k.java",
     "GFG/Arrays/second-largest.java",
-    "GFG/Arrays/frequency-of-elements.java"
+    "GFG/Arrays/frequency-of-elements.java",
+    "GFG/Strings/palindrome-numbers-in-a-range.java"
   ],
   "topics": {
     "Array": 4,
@@ -38,8 +39,8 @@
     "Quicksort": 1,
     "Searching": 1,
     "Sorting": 1,
-    "Strings": 1,
+    "Strings": 2,
     "Two Pointers": 1
   },
-  "totalSolved": 15
+  "totalSolved": 16
 }
