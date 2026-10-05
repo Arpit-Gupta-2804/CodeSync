@@ -8,7 +8,7 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 
 | Language | Problems Solved |
 |:---------|----------------:|
-| Java | 19 |
+| Java | 20 |
 
 ## Topics
 
@@ -25,14 +25,17 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 | Quicksort | 1 |
 | Sorting | 1 |
 | Two Pointers | 1 |
+| Hash Table | 1 |
+| String | 1 |
+| Sliding Window | 1 |
 
 ## Progress
     
 | Platform | Problems Solved | 
 | :---------|----------------:|
 | gfg | 13 |
-| leetcode | 6 |
-| **Total** | **19** |
+| leetcode | 7 |
+| **Total** | **20** |
 
 ## Difficulty
     
@@ -40,7 +43,7 @@ Automatically sync accepted LeetCode and GFG solutions to GitHub.
 |:-----------|----------------|
 | Easy | 12 |
 | Hard | 0 |
-| Medium | 7 |
-| **Total** | **19** |
+| Medium | 8 |
+| **Total** | **20** |
 
 <!-- DSA-SYNC:STATS:END -->
