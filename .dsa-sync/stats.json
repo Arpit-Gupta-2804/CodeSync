@@ -1,14 +1,14 @@
 {
   "difficulty": {
-    "Easy": 10,
+    "Easy": 11,
     "Hard": 0,
     "Medium": 7
   },
   "languages": {
-    "Java": 17
+    "Java": 18
   },
   "platforms": {
-    "gfg": 11,
+    "gfg": 12,
     "leetcode": 6
   },
   "solvedProblems": [
@@ -28,11 +28,12 @@
     "GFG/Arrays/second-largest.java",
     "GFG/Arrays/frequency-of-elements.java",
     "GFG/Strings/palindrome-numbers-in-a-range.java",
-    "GFG/Arrays/peak-element.java"
+    "GFG/Arrays/peak-element.java",
+    "GFG/Arrays/equilibrium-point.java"
   ],
   "topics": {
     "Array": 4,
-    "Arrays": 8,
+    "Arrays": 9,
     "Dynamic Programming": 4,
     "Greedy": 4,
     "Math": 2,
@@ -43,5 +44,5 @@
     "Strings": 2,
     "Two Pointers": 1
   },
-  "totalSolved": 17
+  "totalSolved": 18
 }
