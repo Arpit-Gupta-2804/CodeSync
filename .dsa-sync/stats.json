@@ -2,13 +2,13 @@
   "difficulty": {
     "Easy": 7,
     "Hard": 0,
-    "Medium": 5
+    "Medium": 6
   },
   "languages": {
-    "Java": 12
+    "Java": 13
   },
   "platforms": {
-    "gfg": 6,
+    "gfg": 7,
     "leetcode": 6
   },
   "solvedProblems": [
@@ -23,11 +23,12 @@
     "GFG/Arrays/move-all-zeroes-to-end.java",
     "GFG/Strings/non-repeating-character.java",
     "GFG/Arrays/max-consecutive-1-s-with-k-flips.java",
-    "GFG/Arrays/stock-buy-and-sell-max-one-transaction-allowed.java"
+    "GFG/Arrays/stock-buy-and-sell-max-one-transaction-allowed.java",
+    "GFG/Arrays/longest-subarray-with-sum-k.java"
   ],
   "topics": {
     "Array": 4,
-    "Arrays": 4,
+    "Arrays": 5,
     "Dynamic Programming": 4,
     "Greedy": 4,
     "Math": 2,
@@ -37,5 +38,5 @@
     "Strings": 1,
     "Two Pointers": 1
   },
-  "totalSolved": 12
+  "totalSolved": 13
 }
