@@ -2,13 +2,13 @@
   "difficulty": {
     "Easy": 10,
     "Hard": 0,
-    "Medium": 6
+    "Medium": 7
   },
   "languages": {
-    "Java": 16
+    "Java": 17
   },
   "platforms": {
-    "gfg": 10,
+    "gfg": 11,
     "leetcode": 6
   },
   "solvedProblems": [
@@ -27,20 +27,21 @@
     "GFG/Arrays/longest-subarray-with-sum-k.java",
     "GFG/Arrays/second-largest.java",
     "GFG/Arrays/frequency-of-elements.java",
-    "GFG/Strings/palindrome-numbers-in-a-range.java"
+    "GFG/Strings/palindrome-numbers-in-a-range.java",
+    "GFG/Arrays/peak-element.java"
   ],
   "topics": {
     "Array": 4,
-    "Arrays": 7,
+    "Arrays": 8,
     "Dynamic Programming": 4,
     "Greedy": 4,
     "Math": 2,
     "Memoization": 1,
     "Quicksort": 1,
-    "Searching": 1,
+    "Searching": 2,
     "Sorting": 1,
     "Strings": 2,
     "Two Pointers": 1
   },
-  "totalSolved": 16
+  "totalSolved": 17
 }
