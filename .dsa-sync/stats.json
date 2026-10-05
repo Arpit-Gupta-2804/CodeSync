@@ -1,14 +1,14 @@
 {
   "difficulty": {
-    "Easy": 8,
+    "Easy": 9,
     "Hard": 0,
     "Medium": 6
   },
   "languages": {
-    "Java": 14
+    "Java": 15
   },
   "platforms": {
-    "gfg": 8,
+    "gfg": 9,
     "leetcode": 6
   },
   "solvedProblems": [
@@ -25,20 +25,21 @@
     "GFG/Arrays/max-consecutive-1-s-with-k-flips.java",
     "GFG/Arrays/stock-buy-and-sell-max-one-transaction-allowed.java",
     "GFG/Arrays/longest-subarray-with-sum-k.java",
-    "GFG/Arrays/second-largest.java"
+    "GFG/Arrays/second-largest.java",
+    "GFG/Arrays/frequency-of-elements.java"
   ],
   "topics": {
     "Array": 4,
-    "Arrays": 6,
+    "Arrays": 7,
     "Dynamic Programming": 4,
     "Greedy": 4,
     "Math": 2,
     "Memoization": 1,
     "Quicksort": 1,
+    "Searching": 1,
     "Sorting": 1,
     "Strings": 1,
-    "Two Pointers": 1,
-    "Searching": 1
+    "Two Pointers": 1
   },
-  "totalSolved": 14
+  "totalSolved": 15
 }
