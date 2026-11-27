@@ -21,16 +21,16 @@ class Solution {
             Pair curr = q.poll();
             int dist = curr.dist;
             int node = curr.node;
-            int lvl = curr.lvl;
+            int stops = curr.lvl;
 
-            if(lvl > k) continue;
-            
+            if(stops > k) continue;
+
             for(int [] next : adj.get(node)){
                 int d = next[1];
                 int v = next[0];
-                if(distance[v] > d+dist && lvl <= k){
+                if(distance[v] > d+dist && stops <= k){
                     distance[v] = d + dist;
-                    q.offer(new Pair(lvl + 1, v,  d + dist));
+                    q.offer(new Pair(stops + 1, v,  d + dist));
                 }
             }
         }
