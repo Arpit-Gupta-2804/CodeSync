@@ -2,14 +2,14 @@
   "difficulty": {
     "Easy": 13,
     "Hard": 0,
-    "Medium": 8
+    "Medium": 9
   },
   "languages": {
-    "Java": 21
+    "Java": 22
   },
   "platforms": {
     "gfg": 13,
-    "leetcode": 8
+    "leetcode": 9
   },
   "solvedProblems": [
     "Leetcode/General/count-commas-in-range.java",
@@ -32,12 +32,13 @@
     "GFG/Arrays/equilibrium-point.java",
     "GFG/Arrays/missing-in-array.java",
     "Leetcode/Sliding Window/longest-substring-without-repeating-characters.java",
-    "Leetcode/Hash Table/two-sum.java"
+    "Leetcode/Hash Table/two-sum.java",
+    "Leetcode/Dynamic Programming/cheapest-flights-within-k-stops.java"
   ],
   "topics": {
     "Array": 5,
     "Arrays": 10,
-    "Dynamic Programming": 4,
+    "Dynamic Programming": 5,
     "Greedy": 4,
     "Hash Table": 2,
     "Math": 2,
@@ -48,7 +49,12 @@
     "Sorting": 1,
     "String": 1,
     "Strings": 2,
-    "Two Pointers": 1
+    "Two Pointers": 1,
+    "Depth-First Search": 1,
+    "Breadth-First Search": 1,
+    "Graph Theory": 1,
+    "Heap (Priority Queue)": 1,
+    "Shortest Path": 1
   },
-  "totalSolved": 21
+  "totalSolved": 22
 }
